@@ -2361,7 +2361,7 @@ var transactionFailure = `{
   "type": "https://stellar.org/horizon-errors/transaction_failed",
   "title": "Transaction Failed",
   "status": 400,
-  "detail": "The transaction failed when submitted to the stellar network. The extras.result_codes field on this response contains further details.  Descriptions of each code can be found at: https://developers.stellar.org/docs/data/horizon/api-reference/aggregations/order-books/single",
+  "detail": "The transaction failed when submitted to the stellar network. The extras.result_codes field on this response contains further details.  Descriptions of each code can be found at: https://developers.stellar.org/docs/data/horizon/api-reference/retrieve-an-order-book",
   "instance": "horizon-testnet-001.prd.stellar001.internal.stellar-ops.com/4elYz2fHhC-528285",
   "extras": {
     "envelope_xdr": "AAAAAKpmDL6Z4hvZmkTBkYpHftan4ogzTaO4XTB7joLgQnYYAAAAZAAAAAAABeoyAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAABAAAAAD3sEVVGZGi/NoC3ta/8f/YZKMzyi9ZJpOi0H47x7IqYAAAAAAAAAAAF9eEAAAAAAAAAAAA=",
